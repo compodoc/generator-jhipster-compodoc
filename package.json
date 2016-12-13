@@ -4,7 +4,8 @@
   "description": "JHipster module, additional compodoc support in your JHipster application",
   "keywords": [
     "yeoman-generator",
-    "jhipster-module"
+    "jhipster-module",
+    "compodoc"
   ],
   "homepage": "https://github.com/compodoc/generator-jhipster-compodoc",
   "author": {
