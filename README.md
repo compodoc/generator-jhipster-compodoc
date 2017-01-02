@@ -62,4 +62,4 @@ MIT © [Vincent Ogloblinsky]
 [travis-image]: https://travis-ci.org/compodoc/generator-jhipster-compodoc.svg?branch=master
 [travis-url]: https://travis-ci.org/compodoc/generator-jhipster-compodoc
 [daviddm-image]: https://david-dm.org/compodoc/generator-jhipster-compodoc.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/compodoc/generator-jhipster-module
+[daviddm-url]: https://david-dm.org/compodoc/generator-jhipster-compodoc
