@@ -32,6 +32,7 @@ module.exports = yeoman.Base.extend({
   writing: {
     writeTemplates : function () {
       jhipsterFunc.addNpmDevDependency('compodoc', '0.0.26');
+      jhipsterFunc.addNpmScript('doc', './node_modules/.bin/compodoc -p src/tsconfig.json');
     },
 
     registering: function () {
@@ -49,5 +50,7 @@ module.exports = yeoman.Base.extend({
 
   end: function () {
     this.log('End of JHipster compodoc generator');
+    this.log(' Run compodoc using npm scripts :');
+    this.log(' > npm run doc');
   }
 });

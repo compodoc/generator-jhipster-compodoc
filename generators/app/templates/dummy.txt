@@ -1,2 +1,0 @@
-hello compodoc!
-It's dummy.txt

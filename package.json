@@ -22,10 +22,10 @@
     "url": "git+https://github.com/compodoc/generator-jhipster-compodoc.git"
   },
   "dependencies": {
-    "yeoman-generator": "0.22.4",
-    "chalk": "1.1.1",
+    "yeoman-generator": "0.24.1",
+    "chalk": "1.1.3",
     "mkdirp": "0.5.1",
-    "generator-jhipster": "^3.0.0"
+    "generator-jhipster": "^3.12.1"
   },
   "devDependencies": {
     "fs-extra": "0.26.4",

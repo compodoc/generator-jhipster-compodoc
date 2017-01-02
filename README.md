@@ -8,7 +8,7 @@
 > JHipster module, additional [compodoc](https://github.com/compodoc/compodoc) support in your JHipster application
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/groupe-sii/compodoc/master/screenshots/main-view.png" alt="Compodoc: The missing documentation tool for your Angular application">
+  <img src="https://raw.githubusercontent.com/compodoc/generator-jhipster-compodoc/master/screenshots/main-view.png" alt="Compodoc: The missing documentation tool for your Angular application">
 </p>
 
 # Introduction
@@ -43,7 +43,13 @@ Due to a limitation of yeoman about file override, you will have to accept the o
 
 ```bash
  conflict package.json
-? Overwirte package.json? (Ynaxdh)
+? Overwrite package.json? (Ynaxdh)
+```
+
+Enjoy compodoc in your Angular application
+
+```bash
+npm run doc
 ```
 
 # License
